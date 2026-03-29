@@ -6,6 +6,7 @@ Identify and handle messy data
 Explore relationships between features and survival
 Visualize key patterns using charts and heatmaps
 Prepare a clean dataset for future modelling
+
 Tools & Libraries:Python — pandas, numpy
 Visualization — matplotlib, seaborn
 Feature Scaling — StandardScaler, MinMaxScaler (sklearn)
